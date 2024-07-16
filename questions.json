@@ -1,0 +1,155 @@
+[
+    {
+        "question": "What is JSON?",
+        "options": [
+            "JavaScript Object Notation",
+            "JavaScript Online Network",
+            "Java Standard Object Notation",
+            "JavaScript Original Network"
+        ],
+        "answer": "JavaScript Object Notation"
+    },
+    {
+        "question": "How does JSON handle data types such as strings, numbers, and booleans?",
+        "options": [
+            "By encoding them as text",
+            "By using binary encoding",
+            "By converting them to XML",
+            "By using proprietary formats"
+        ],
+        "answer": "By encoding them as text"
+    },
+    {
+        "question": "What are some common use cases for JSON?",
+        "options": [
+            "Data interchange between a server and web application",
+            "Creating animations",
+            "Designing user interfaces",
+            "Image processing"
+        ],
+        "answer": "Data interchange between a server and web application"
+    },
+    {
+        "question": "How can you convert a JSON string into a JavaScript object?",
+        "options": [
+            "Using JSON.parse()",
+            "Using JSON.stringify()",
+            "Using JSON.convert()",
+            "Using JSON.toObject()"
+        ],
+        "answer": "Using JSON.parse()"
+    },
+    
+    {
+        "question": "How do you handle nested JSON objects?",
+        "options": [
+            "By accessing each nested level using dot notation",
+            "By converting them to arrays",
+            "By using XML to parse them",
+            "By ignoring the nested structure"
+        ],
+        "answer": "By accessing each nested level using dot notation"
+    },
+    {
+        "question": "What are some common JSON parsing errors?",
+        "options": [
+            "Missing commas or curly braces",
+            "Incorrect variable names",
+            "Exceeding character limits",
+            "Using reserved keywords"
+        ],
+        "answer": "Missing commas or curly braces"
+    },
+    {
+        "question": "How do you validate a JSON file?",
+        "options": [
+            "Using a JSON schema",
+            "Using HTML validators",
+            "Using CSS validators",
+            "Using JavaScript debuggers"
+        ],
+        "answer": "Using a JSON schema"
+    },
+    {
+        "question": "Can JSON support comments?",
+        "options": [
+            "No, JSON does not support comments",
+            "Yes, using double slashes //",
+            "Yes, using hash symbols #",
+            "Yes, using asterisk symbols /* */"
+        ],
+        "answer": "No, JSON does not support comments"
+    },
+    {
+        "question": "Explain the significance of key-value pairs in JSON.",
+        "options": [
+            "They define the data structure and store information",
+            "They create loops in the data",
+            "They determine the style of the document",
+            "They handle the communication protocol"
+        ],
+        "answer": "They define the data structure and store information"
+    },
+    {
+        "question": "What is the MIME type of JSON?",
+        "options": [
+            "application/json",
+            "text/json",
+            "application/javascript",
+            "text/javascript"
+        ],
+        "answer": "application/json"
+    },
+    {
+        "question": "How can you minify or beautify a JSON file?",
+        "options": [
+            "Using online tools or code editors",
+            "By changing the file extension",
+            "By converting it to XML",
+            "By adding or removing data"
+        ],
+        "answer": "Using online tools or code editors"
+    },
+    
+    {
+        "question": "How do you handle special characters in JSON strings?",
+        "options": [
+            "By escaping them with a backslash",
+            "By using HTML entities",
+            "By converting them to base64",
+            "By removing them"
+        ],
+        "answer": "By escaping them with a backslash"
+    },
+    {
+        "question": "What are some security concerns with JSON?",
+        "options": [
+            "Cross-site scripting (XSS) and JSON injection",
+            "Denial of service (DoS)",
+            "Phishing",
+            "SQL injection"
+        ],
+        "answer": "Cross-site scripting (XSS) and JSON injection"
+    },
+    {
+        "question": "How do you merge two JSON objects?",
+        "options": [
+            "Using the spread operator or Object.assign()",
+            "Using JSON.stringify()",
+            "Using JSON.parse()",
+            "Using a for loop"
+        ],
+        "answer": "Using the spread operator or Object.assign()"
+    },
+    {
+        "question": "How can you extract specific data from a JSON file?",
+        "options": [
+            "By using dot notation or bracket notation",
+            "By converting it to XML",
+            "By using a regular expression",
+            "By using a spreadsheet application"
+        ],
+        "answer": "By using dot notation or bracket notation"
+    }
+    
+]
